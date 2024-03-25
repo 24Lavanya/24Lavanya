@@ -22,5 +22,5 @@ Feel free to explore more of my projects by browsing through my repositories!
 - **LinkedIn:** www.linkedin.com/in/lavanya-laxmi
 
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about web development!
+Feel free to reach out if you have any questions, or just want to chat about development!
 
