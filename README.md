@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Lavanya, a Software Engineer from India with hands-on experience building scalable web applications and fintech solutions using modern technologies.
+I'm Lavanya, a Software Engineer with experience building scalable web applications and fintech solutions using modern technologies.
 
 ## 🔧 Technologies & Tools
 - Frontend: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
