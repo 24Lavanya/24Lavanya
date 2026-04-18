@@ -1,26 +1,23 @@
 # Hi there! 👋
 
-I'm Lavanya, a Full Stack Web Developer from Mangalore, India. I'm passionate about crafting robust and elegant web applications, and I love diving into both frontend and backend development.
+I'm Lavanya, a Software Engineer from India with hands-on experience building scalable web applications and fintech solutions using modern technologies.
 
 ## 🔧 Technologies & Tools
-- Frontend: HTML, CSS, JavaScript, React.js, EJS
+- Frontend: React.js, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+- State Management: Redux Toolkit, React Query
 - Backend: Node.js, Express.js
-- Database: MySQL, MongoDB
-- Version Control: Git
-- Other Tools: VS Code
-  
-## 🌱 Currently Learning
-I'm currently focusing on enhancing my frontend and backend development skills to complement my existing full stack expertise. Additionally, I'm always eager to explore new technologies and frameworks to stay updated with the latest trends in web development.
+- Database: MongoDB, MySQL
+- Tools: Git, Postman, Firebase
 
-## 🛠️ Projects
-I'm actively working on building various projects to apply and reinforce my skills.
+## 🌱 Currently Focused On
+Improving frontend architecture, performance optimization, scalable system design, and building clean user-centric products.
 
-Feel free to explore more of my projects by browsing through my repositories! 
+## 💼 Experience
+Currently working at a startup, building fintech solutions and production-grade applications while solving real-world engineering challenges.
+
+## 📌 Repositories
+Feel free to explore my repositories to see projects, experiments, and development work.
 
 ## 📫 Get in Touch
-- **Email:** laxmilavanya364@gmail.com
+- **Email:** laxmilavanya364@gmail.com  
 - **LinkedIn:** www.linkedin.com/in/lavanya-laxmi
-
-
-Feel free to reach out if you have any questions, or just want to chat about development!
-
